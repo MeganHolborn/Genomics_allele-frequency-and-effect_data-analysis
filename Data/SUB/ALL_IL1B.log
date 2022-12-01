@@ -1,0 +1,171 @@
+PLINK v2.00a3LM 64-bit Intel (26 Aug 2021)
+Options in effect:
+  --allow-extra-chr
+  --freq counts
+  --hardy midp
+  --loop-cats SUB
+  --missing
+  --out results/FINAL/SUB/ALL_IL1B
+  --pheno iid-only results/REFERENCE/cluster_SUB.txt
+  --vcf results/FINAL/ALL_IL1B.vcf.gz
+
+Hostname: wonko5.bi.up.ac.za
+Working directory: /nlustre/users/mryder/Pipeline_GnomAD_30062022
+Start time: Thu Jul  7 12:25:19 2022
+
+Random number seed: 1657189519
+128658 MiB RAM detected; reserving 64329 MiB for main workspace.
+Allocated 48246 MiB successfully, after larger attempt(s) failed.
+Using up to 56 threads (change this with --threads).
+--vcf: 283 variants scanned.
+--vcf: results/FINAL/SUB/ALL_IL1B-temporary.pgen +
+results/FINAL/SUB/ALL_IL1B-temporary.pvar.zst +
+results/FINAL/SUB/ALL_IL1B-temporary.psam written.
+755 samples (0 females, 0 males, 755 ambiguous; 755 founders) loaded from
+results/FINAL/SUB/ALL_IL1B-temporary.psam.
+283 variants loaded from results/FINAL/SUB/ALL_IL1B-temporary.pvar.zst.
+1 categorical phenotype loaded (755 values).
+Calculating sample missingness rates... done.
+--loop-cats: 14 categories present.
+--loop-cats: Processing category 'ACB' (94 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_IL1B.ACB.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_IL1B.ACB.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_IL1B.ACB.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_IL1B.ACB.hardy .
+--loop-cats: Processing category 'ASW' (52 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_IL1B.ASW.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_IL1B.ASW.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_IL1B.ASW.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_IL1B.ASW.hardy .
+--loop-cats: Processing category 'BantuKenya' (10 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_IL1B.BantuKenya.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_IL1B.BantuKenya.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_IL1B.BantuKenya.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_IL1B.BantuKenya.hardy .
+--loop-cats: Processing category 'BantuSouthAfrica' (8 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_IL1B.BantuSouthAfrica.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_IL1B.BantuSouthAfrica.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_IL1B.BantuSouthAfrica.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_IL1B.BantuSouthAfrica.hardy .
+--loop-cats: Processing category 'BiakaPygmy' (21 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_IL1B.BiakaPygmy.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_IL1B.BiakaPygmy.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_IL1B.BiakaPygmy.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_IL1B.BiakaPygmy.hardy .
+--loop-cats: Processing category 'ESN' (103 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_IL1B.ESN.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_IL1B.ESN.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_IL1B.ESN.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_IL1B.ESN.hardy .
+--loop-cats: Processing category 'GWD' (116 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_IL1B.GWD.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_IL1B.GWD.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_IL1B.GWD.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_IL1B.GWD.hardy .
+--loop-cats: Processing category 'LWK' (92 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_IL1B.LWK.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_IL1B.LWK.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_IL1B.LWK.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_IL1B.LWK.hardy .
+--loop-cats: Processing category 'Mandenka' (20 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_IL1B.Mandenka.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_IL1B.Mandenka.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_IL1B.Mandenka.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_IL1B.Mandenka.hardy .
+--loop-cats: Processing category 'MbutiPygmy' (12 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_IL1B.MbutiPygmy.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_IL1B.MbutiPygmy.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_IL1B.MbutiPygmy.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_IL1B.MbutiPygmy.hardy .
+--loop-cats: Processing category 'MSL' (83 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_IL1B.MSL.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_IL1B.MSL.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_IL1B.MSL.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_IL1B.MSL.hardy .
+--loop-cats: Processing category 'San' (6 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_IL1B.San.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_IL1B.San.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_IL1B.San.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_IL1B.San.hardy .
+--loop-cats: Processing category 'Yoruba' (21 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_IL1B.Yoruba.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_IL1B.Yoruba.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_IL1B.Yoruba.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_IL1B.Yoruba.hardy .
+--loop-cats: Processing category 'YRI' (117 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_IL1B.YRI.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_IL1B.YRI.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_IL1B.YRI.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_IL1B.YRI.hardy .
+
+End time: Thu Jul  7 12:25:25 2022

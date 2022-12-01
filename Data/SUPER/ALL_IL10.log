@@ -1,0 +1,40 @@
+PLINK v2.00a3LM 64-bit Intel (26 Aug 2021)
+Options in effect:
+  --allow-extra-chr
+  --freq counts
+  --hardy midp
+  --loop-cats SUPER
+  --missing
+  --out results/FINAL/SUPER/ALL_IL10
+  --pheno iid-only results/REFERENCE/cluster_SUPER.txt
+  --vcf results/FINAL/ALL_IL10.vcf.gz
+
+Hostname: wonko7.bi.up.ac.za
+Working directory: /nlustre/users/mryder/Pipeline_GnomAD_30062022
+Start time: Thu Jul  7 12:26:00 2022
+
+Random number seed: 1657189560
+128658 MiB RAM detected; reserving 64329 MiB for main workspace.
+Using up to 56 threads (change this with --threads).
+--vcf: 327 variants scanned.
+--vcf: results/FINAL/SUPER/ALL_IL10-temporary.pgen +
+results/FINAL/SUPER/ALL_IL10-temporary.pvar.zst +
+results/FINAL/SUPER/ALL_IL10-temporary.psam written.
+755 samples (0 females, 0 males, 755 ambiguous; 755 founders) loaded from
+results/FINAL/SUPER/ALL_IL10-temporary.psam.
+327 variants loaded from results/FINAL/SUPER/ALL_IL10-temporary.pvar.zst.
+1 categorical phenotype loaded (755 values).
+Calculating sample missingness rates... done.
+--loop-cats: 1 category present.
+--loop-cats: Processing category 'AFR' (755 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUPER/ALL_IL10.AFR.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUPER/ALL_IL10.AFR.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUPER/ALL_IL10.AFR.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUPER/ALL_IL10.AFR.hardy .
+
+End time: Thu Jul  7 12:26:00 2022

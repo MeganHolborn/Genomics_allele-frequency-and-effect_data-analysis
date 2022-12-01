@@ -1,0 +1,171 @@
+PLINK v2.00a3LM 64-bit Intel (26 Aug 2021)
+Options in effect:
+  --allow-extra-chr
+  --freq counts
+  --hardy midp
+  --loop-cats SUB
+  --missing
+  --out results/FINAL/SUB/ALL_MTHFR
+  --pheno iid-only results/REFERENCE/cluster_SUB.txt
+  --vcf results/FINAL/ALL_MTHFR.vcf.gz
+
+Hostname: wonko5.bi.up.ac.za
+Working directory: /nlustre/users/mryder/Pipeline_GnomAD_30062022
+Start time: Thu Jul  7 12:25:04 2022
+
+Random number seed: 1657189504
+128658 MiB RAM detected; reserving 64329 MiB for main workspace.
+Allocated 48246 MiB successfully, after larger attempt(s) failed.
+Using up to 56 threads (change this with --threads).
+--vcf: 1161 variants scanned.
+--vcf: results/FINAL/SUB/ALL_MTHFR-temporary.pgen +
+results/FINAL/SUB/ALL_MTHFR-temporary.pvar.zst +
+results/FINAL/SUB/ALL_MTHFR-temporary.psam written.
+755 samples (0 females, 0 males, 755 ambiguous; 755 founders) loaded from
+results/FINAL/SUB/ALL_MTHFR-temporary.psam.
+1161 variants loaded from results/FINAL/SUB/ALL_MTHFR-temporary.pvar.zst.
+1 categorical phenotype loaded (755 values).
+Calculating sample missingness rates... done.
+--loop-cats: 14 categories present.
+--loop-cats: Processing category 'ACB' (94 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.ACB.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_MTHFR.ACB.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_MTHFR.ACB.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.ACB.hardy .
+--loop-cats: Processing category 'ASW' (52 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.ASW.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_MTHFR.ASW.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_MTHFR.ASW.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.ASW.hardy .
+--loop-cats: Processing category 'BantuKenya' (10 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.BantuKenya.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_MTHFR.BantuKenya.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_MTHFR.BantuKenya.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.BantuKenya.hardy .
+--loop-cats: Processing category 'BantuSouthAfrica' (8 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.BantuSouthAfrica.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_MTHFR.BantuSouthAfrica.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_MTHFR.BantuSouthAfrica.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.BantuSouthAfrica.hardy .
+--loop-cats: Processing category 'BiakaPygmy' (21 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.BiakaPygmy.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_MTHFR.BiakaPygmy.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_MTHFR.BiakaPygmy.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.BiakaPygmy.hardy .
+--loop-cats: Processing category 'ESN' (103 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.ESN.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_MTHFR.ESN.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_MTHFR.ESN.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.ESN.hardy .
+--loop-cats: Processing category 'GWD' (116 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.GWD.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_MTHFR.GWD.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_MTHFR.GWD.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.GWD.hardy .
+--loop-cats: Processing category 'LWK' (92 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.LWK.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_MTHFR.LWK.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_MTHFR.LWK.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.LWK.hardy .
+--loop-cats: Processing category 'Mandenka' (20 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.Mandenka.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_MTHFR.Mandenka.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_MTHFR.Mandenka.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.Mandenka.hardy .
+--loop-cats: Processing category 'MbutiPygmy' (12 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.MbutiPygmy.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_MTHFR.MbutiPygmy.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_MTHFR.MbutiPygmy.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.MbutiPygmy.hardy .
+--loop-cats: Processing category 'MSL' (83 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.MSL.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_MTHFR.MSL.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_MTHFR.MSL.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.MSL.hardy .
+--loop-cats: Processing category 'San' (6 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.San.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_MTHFR.San.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_MTHFR.San.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.San.hardy .
+--loop-cats: Processing category 'Yoruba' (21 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.Yoruba.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_MTHFR.Yoruba.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_MTHFR.Yoruba.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.Yoruba.hardy .
+--loop-cats: Processing category 'YRI' (117 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.YRI.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_MTHFR.YRI.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_MTHFR.YRI.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_MTHFR.YRI.hardy .
+
+End time: Thu Jul  7 12:25:08 2022

@@ -1,0 +1,3 @@
+# README
+
+This folder contains a `locations.csv` file with the genomic locations of gene regions of interest (GRCh38 reference genome) from which allele frequency data was retrieved. Information on gene transcripts, ranked in order importance, are included in a `transcripts.csv` file to enable downstream analysis with software that requires this information. Additionally, sample metadata is contained within a `samples.csv` file.

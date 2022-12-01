@@ -1,0 +1,3 @@
+# README
+
+Genetic variant data on African individuals from the __1000 Genomes__ and __Human Genome Diversity Project__ were retrieved from GnomAD v3.1.2 in `.vcf` format. The VCF files were filtered to include unrelated individuals that passed GnomAD's high-quality sub-continental aware sample filters and variant quality control checks. The resulting VCF files were concatenated by chromosome into a single consolidated VCF dataset file. Allele frequency data, demarcated by gene of interest, and super- and sub-population, was retrieved from the dataset file using a [Snakemake pipeline developed by Graeme R. Ford](https://github.com/Tuks-ICMM/Pharmacogenetic-Analysis-Pipeline). This folder contains the allele frequency ouput data.

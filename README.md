@@ -1,0 +1,3 @@
+# README for Genomics allele frequency and effect data analysis
+
+This repository contains scripts for the analysis of variant allele frequency data from the __1000 Genomes__ and __Human Genome Diversity Project__. The allele frequency data contained in the `Data` folder was generated using the [Pharmacogenetic Analysis Pipeline](https://github.com/Tuks-ICMM/Pharmacogenetic-Analysis-Pipeline) created by Graeme R. Ford. The allele frequency data is separated by pre-specified gene regions of interest, super- and sub-population. 

@@ -1,0 +1,170 @@
+PLINK v2.00a3LM 64-bit Intel (26 Aug 2021)
+Options in effect:
+  --allow-extra-chr
+  --freq counts
+  --hardy midp
+  --loop-cats SUB
+  --missing
+  --out results/FINAL/SUB/ALL_AP4B1
+  --pheno iid-only results/REFERENCE/cluster_SUB.txt
+  --vcf results/FINAL/ALL_AP4B1.vcf.gz
+
+Hostname: wonko7.bi.up.ac.za
+Working directory: /nlustre/users/mryder/Pipeline_GnomAD_30062022
+Start time: Thu Jul  7 12:25:28 2022
+
+Random number seed: 1657189528
+128658 MiB RAM detected; reserving 64329 MiB for main workspace.
+Using up to 56 threads (change this with --threads).
+--vcf: 477 variants scanned.
+--vcf: results/FINAL/SUB/ALL_AP4B1-temporary.pgen +
+results/FINAL/SUB/ALL_AP4B1-temporary.pvar.zst +
+results/FINAL/SUB/ALL_AP4B1-temporary.psam written.
+755 samples (0 females, 0 males, 755 ambiguous; 755 founders) loaded from
+results/FINAL/SUB/ALL_AP4B1-temporary.psam.
+477 variants loaded from results/FINAL/SUB/ALL_AP4B1-temporary.pvar.zst.
+1 categorical phenotype loaded (755 values).
+Calculating sample missingness rates... done.
+--loop-cats: 14 categories present.
+--loop-cats: Processing category 'ACB' (94 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.ACB.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_AP4B1.ACB.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_AP4B1.ACB.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.ACB.hardy .
+--loop-cats: Processing category 'ASW' (52 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.ASW.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_AP4B1.ASW.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_AP4B1.ASW.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.ASW.hardy .
+--loop-cats: Processing category 'BantuKenya' (10 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.BantuKenya.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_AP4B1.BantuKenya.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_AP4B1.BantuKenya.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.BantuKenya.hardy .
+--loop-cats: Processing category 'BantuSouthAfrica' (8 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.BantuSouthAfrica.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_AP4B1.BantuSouthAfrica.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_AP4B1.BantuSouthAfrica.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.BantuSouthAfrica.hardy .
+--loop-cats: Processing category 'BiakaPygmy' (21 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.BiakaPygmy.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_AP4B1.BiakaPygmy.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_AP4B1.BiakaPygmy.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.BiakaPygmy.hardy .
+--loop-cats: Processing category 'ESN' (103 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.ESN.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_AP4B1.ESN.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_AP4B1.ESN.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.ESN.hardy .
+--loop-cats: Processing category 'GWD' (116 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.GWD.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_AP4B1.GWD.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_AP4B1.GWD.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.GWD.hardy .
+--loop-cats: Processing category 'LWK' (92 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.LWK.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_AP4B1.LWK.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_AP4B1.LWK.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.LWK.hardy .
+--loop-cats: Processing category 'Mandenka' (20 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.Mandenka.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_AP4B1.Mandenka.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_AP4B1.Mandenka.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.Mandenka.hardy .
+--loop-cats: Processing category 'MbutiPygmy' (12 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.MbutiPygmy.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_AP4B1.MbutiPygmy.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_AP4B1.MbutiPygmy.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.MbutiPygmy.hardy .
+--loop-cats: Processing category 'MSL' (83 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.MSL.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_AP4B1.MSL.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_AP4B1.MSL.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.MSL.hardy .
+--loop-cats: Processing category 'San' (6 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.San.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_AP4B1.San.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_AP4B1.San.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.San.hardy .
+--loop-cats: Processing category 'Yoruba' (21 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.Yoruba.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_AP4B1.Yoruba.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_AP4B1.Yoruba.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.Yoruba.hardy .
+--loop-cats: Processing category 'YRI' (117 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.YRI.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_AP4B1.YRI.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_AP4B1.YRI.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_AP4B1.YRI.hardy .
+
+End time: Thu Jul  7 12:25:34 2022

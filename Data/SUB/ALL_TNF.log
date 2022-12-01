@@ -1,0 +1,170 @@
+PLINK v2.00a3LM 64-bit Intel (26 Aug 2021)
+Options in effect:
+  --allow-extra-chr
+  --freq counts
+  --hardy midp
+  --loop-cats SUB
+  --missing
+  --out results/FINAL/SUB/ALL_TNF
+  --pheno iid-only results/REFERENCE/cluster_SUB.txt
+  --vcf results/FINAL/ALL_TNF.vcf.gz
+
+Hostname: wonko7.bi.up.ac.za
+Working directory: /nlustre/users/mryder/Pipeline_GnomAD_30062022
+Start time: Thu Jul  7 12:25:43 2022
+
+Random number seed: 1657189543
+128658 MiB RAM detected; reserving 64329 MiB for main workspace.
+Using up to 56 threads (change this with --threads).
+--vcf: 98 variants scanned.
+--vcf: results/FINAL/SUB/ALL_TNF-temporary.pgen +
+results/FINAL/SUB/ALL_TNF-temporary.pvar.zst +
+results/FINAL/SUB/ALL_TNF-temporary.psam written.
+755 samples (0 females, 0 males, 755 ambiguous; 755 founders) loaded from
+results/FINAL/SUB/ALL_TNF-temporary.psam.
+98 variants loaded from results/FINAL/SUB/ALL_TNF-temporary.pvar.zst.
+1 categorical phenotype loaded (755 values).
+Calculating sample missingness rates... done.
+--loop-cats: 14 categories present.
+--loop-cats: Processing category 'ACB' (94 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_TNF.ACB.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_TNF.ACB.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_TNF.ACB.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_TNF.ACB.hardy .
+--loop-cats: Processing category 'ASW' (52 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_TNF.ASW.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_TNF.ASW.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_TNF.ASW.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_TNF.ASW.hardy .
+--loop-cats: Processing category 'BantuKenya' (10 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_TNF.BantuKenya.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_TNF.BantuKenya.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_TNF.BantuKenya.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_TNF.BantuKenya.hardy .
+--loop-cats: Processing category 'BantuSouthAfrica' (8 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_TNF.BantuSouthAfrica.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_TNF.BantuSouthAfrica.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_TNF.BantuSouthAfrica.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_TNF.BantuSouthAfrica.hardy .
+--loop-cats: Processing category 'BiakaPygmy' (21 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_TNF.BiakaPygmy.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_TNF.BiakaPygmy.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_TNF.BiakaPygmy.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_TNF.BiakaPygmy.hardy .
+--loop-cats: Processing category 'ESN' (103 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_TNF.ESN.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_TNF.ESN.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_TNF.ESN.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_TNF.ESN.hardy .
+--loop-cats: Processing category 'GWD' (116 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_TNF.GWD.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_TNF.GWD.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_TNF.GWD.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_TNF.GWD.hardy .
+--loop-cats: Processing category 'LWK' (92 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_TNF.LWK.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_TNF.LWK.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_TNF.LWK.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_TNF.LWK.hardy .
+--loop-cats: Processing category 'Mandenka' (20 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_TNF.Mandenka.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_TNF.Mandenka.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_TNF.Mandenka.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_TNF.Mandenka.hardy .
+--loop-cats: Processing category 'MbutiPygmy' (12 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_TNF.MbutiPygmy.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_TNF.MbutiPygmy.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_TNF.MbutiPygmy.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_TNF.MbutiPygmy.hardy .
+--loop-cats: Processing category 'MSL' (83 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_TNF.MSL.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_TNF.MSL.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_TNF.MSL.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_TNF.MSL.hardy .
+--loop-cats: Processing category 'San' (6 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_TNF.San.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_TNF.San.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_TNF.San.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_TNF.San.hardy .
+--loop-cats: Processing category 'Yoruba' (21 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_TNF.Yoruba.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_TNF.Yoruba.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_TNF.Yoruba.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_TNF.Yoruba.hardy .
+--loop-cats: Processing category 'YRI' (117 samples).
+Calculating allele frequencies... done.
+--freq counts: Allele counts (founders only) written to
+results/FINAL/SUB/ALL_TNF.YRI.acount .
+--missing: Sample missing data report written to
+results/FINAL/SUB/ALL_TNF.YRI.smiss .
+--missing: Variant missing data report written to
+results/FINAL/SUB/ALL_TNF.YRI.vmiss .
+--hardy midp: Autosomal Hardy-Weinberg report (founders only) written to
+results/FINAL/SUB/ALL_TNF.YRI.hardy .
+
+End time: Thu Jul  7 12:25:48 2022
